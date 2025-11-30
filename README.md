@@ -6,7 +6,7 @@
 
   <p>
     <img src="https://img.shields.io/badge/build-passing-brightgreen?style=flat-square" alt="Build">
-    <img src="https://img.shields.io/badge/version-v1.0-blue?style=flat-square" alt="Version">
+    <img src="https://img.shields.io/badge/version-v1.1-blue?style=flat-square" alt="Version">
     <img src="https://img.shields.io/badge/platform-windows-lightgrey?style=flat-square" alt="Platform">
   </p>
 
